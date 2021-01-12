@@ -1,0 +1,1 @@
+Trained and built a model for a machine to be able to read handwritten digits!
